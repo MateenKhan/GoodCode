@@ -7,7 +7,7 @@ coupling and cohesion
 Cohesion is the degree to which the elements inside a module belong together. 
 Coupling is the degree of interdependence between software modules.
 
-<a href = "https://www.baeldung.com/solid-principles"> SOLID Principles: </a>
+<a href = "https://www.baeldung.com/solid-principles" target="_blank"> SOLID Principles: </a>
 
 Single Responsibility : class should only have one responsibility
 Open/Closed : classes should be open for extension but closed for modification
