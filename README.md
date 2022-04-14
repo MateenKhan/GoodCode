@@ -36,6 +36,31 @@ A functional interface is the one that defines exactly one abstract method. Whil
 <p>myCollection.forEach((String value) -> System.out.println(value));</p>
 <p>colletion.forEach(sub -> System.out.println(sub));  </p>
 
+<h1>Method Reference </h1>
+<p>
+The Method reference feature introduced in Java 8 is a shorthand notation for Lambda Expressions to call a method of Functional Interface. So each time you use a Lambda Expression to refer a method, you can replace your Lambda Expression with method reference.
+</p>
+
+<h1>Nashorn JavaScript Engine </h1>
+<p>
+Nashorn that replaces the existing Rhino. Nashorn directly compiles the code in memory and then passes the bytecode to JVM thereby improving the performance by 10 times.
+</p>
+
+<h1>Base64 Encode Decode</h1>
+<p>
+In Java 8 there is inbuilt encode and decode for Base64 encoding. The class for Base64 encoding is java.util.Base64.
+</p>
+
+
+<h1>IO improvements</h1>
+<p>
+Files.list (Path dir): This returns a jlazily populated stream, whose each element is the entry in the directory.
+Files.lines (Path path): Reads all the lines from a stream.
+Files.find (): Search for files in the file tree rooted at a given starting file and returns a stream populated by a path.
+BufferedReader.lines (): Returns a stream with its every element as the lines read from BufferedReader.
+</p>
+
+
 
 
 core java
