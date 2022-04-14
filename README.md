@@ -9,11 +9,11 @@ Coupling is the degree of interdependence between software modules.
 
 <a href = "https://www.baeldung.com/solid-principles" target="_blank"> SOLID Principles: </a>
 
-Single Responsibility : class should only have one responsibility
-Open/Closed : classes should be open for extension but closed for modification
-Liskov Substitution : if class A is a subtype of class B, we should be able to replace B with A without disrupting the behavior of our program
-Interface Segregation :  larger interfaces should be split into smaller ones. By doing so, we can ensure that implementing classes only need to be concerned about the methods that are of interest to them.
-Dependency Inversion : The principle of dependency inversion refers to the decoupling of software modules. This way, instead of high-level modules depending on low-level modules, both will depend on abstractions.
+<p><b>Single Responsibility :</b> class should only have one responsibility</p>
+<p><b>Open/Closed :</b> classes should be open for extension but closed for modification</p>
+<p><b>Liskov Substitution :</b> if class A is a subtype of class B, we should be able to replace B with A without disrupting the behavior of our program</p>
+<p><b>Interface Segregation :</b>  larger interfaces should be split into smaller ones. By doing so, we can ensure that implementing classes only need to be concerned about the methods that are of interest to them.</p>
+<p><b>Dependency Inversion :</b> The principle of dependency inversion refers to the decoupling of software modules. This way, instead of high-level modules depending on low-level modules, both will depend on abstractions.</p>
 
 java 8: 
 <a href = "https://manifesto.co.uk/java-jdk-8-features/" target="_blank"> reference 1: </a>
@@ -25,7 +25,9 @@ A functional interface is the one that defines exactly one abstract method. Whil
 
 DateTimeAPI
 
-Lambda expressions : myCollection.forEach((String value) -> System.out.println(value));
+Lambda expressions : 
+<p>myCollection.forEach((String value) -> System.out.println(value));</p>
+<p>colletion.forEach(sub -> System.out.println(sub));  </p>
 
 
 
