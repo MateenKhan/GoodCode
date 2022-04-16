@@ -35,5 +35,6 @@ sample code to write sortining with removing duplication using java 8
 [java 8]: Java8/Java8.md "java 8 feature"
 [1]: SOLID/SolidPrinciples.md "SOLID Principles"
 
+[![test](http://img.youtube.com/vi/yl6dwgK3KmI/0.jpg)](http://www.youtube.com/watch?v=yl6dwgK3KmI)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yl6dwgK3KmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
