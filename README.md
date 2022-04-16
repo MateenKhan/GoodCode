@@ -1,4 +1,4 @@
-This file containts the elements with which a good java code can be written
+<h1>This file containts the elements with which a good java code can be written</h1>
 
 <h1>Coupling and Cohesion: </h1>
 <p>Cohesion is the degree to which the elements inside a module belong together.</p> 
