@@ -5,7 +5,7 @@
 
 [Java 8].
 
-  [java 8]: main/Java8/Java8.md "java 8 feature"
+  [java 8]: Java8/Java8.md "java 8 feature"
 
 core java
 default values in interface, overriding rules, constructor flow with arguments
