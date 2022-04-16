@@ -3,9 +3,10 @@
 <p>Cohesion is the degree to which the elements inside a module belong together.</p> 
 <p>Coupling is the degree of interdependence between software modules.</p>
 
+[SOLID Principles].
 [Java 8].
 
-  [java 8]: Java8/Java8.md "java 8 feature"
+  
 
 core java
 default values in interface, overriding rules, constructor flow with arguments
@@ -30,3 +31,6 @@ what is tdd - leading to junit
 disadvantages of microservices
 
 sample code to write sortining with removing duplication using java 8
+
+[java 8]: Java8/Java8.md "java 8 feature"
+[java 8]: SOLID/SolidPrinciples.md "java 8 feature"
