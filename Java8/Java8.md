@@ -61,6 +61,12 @@ BufferedReader.lines (): Returns a stream with its every element as the lines re
 	
 </table>
 
+
+
+
+
+
+
 <style>
 table{
     border-collapse: collapse;
