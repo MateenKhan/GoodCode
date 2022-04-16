@@ -1,6 +1,7 @@
-<h1>This project contains my knowledge to write good code. This will always be work in progress</h1>
+# This project contains my knowledge to write good code. 
+## This will always be work in progress
 
-<h1>Coupling and Cohesion: </h1>
+## Coupling and Cohesion: 
 <p>Cohesion is the degree to which the elements inside a module belong together.</p> 
 <p>Coupling is the degree of interdependence between software modules.</p>
 
