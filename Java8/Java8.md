@@ -47,38 +47,7 @@ BufferedReader.lines (): Returns a stream with its every element as the lines re
 </p>
 
 
-<table>
-	<tr>
-	<th>Item</th>
-	<th>Function</th>
-	<th>Predicate</th>
-	</tr>
-	<tr>
-	<td>Definition</td>
-	<td>It can take 2 type parameters First one represents input type argument type and second one represents return type.</td>
-	<td>It can take one type parameter which represents input type or argument type.</td>
-	</tr>
-	
-</table>
+| item       	| Function                                                                                                           	| Predicate                                                                    	|
+|------------	|--------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------	|
+| Definition 	| It can take 2 type parameters First one represents input type argument type and second one represents return type. 	| It can take one type parameter which represents input type or argument type. 	|
 
-
-
-
-
-
-
-<style>
-table{
-    border-collapse: collapse;
-    border-spacing: 0;
-    border:2px solid #ff0000;
-}
-
-th{
-    border:2px solid #000000;
-}
-
-td{
-    border:1px solid #000000;
-}
-</style>
