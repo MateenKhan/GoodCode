@@ -47,7 +47,9 @@ BufferedReader.lines (): Returns a stream with its every element as the lines re
 </p>
 
 
-| item       	| Function                                                                                                           	| Predicate                                                                    	|
-|------------	|--------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------	|
-| Definition 	| It can take 2 type parameters First one represents input type argument type and second one represents return type. 	| It can take one type parameter which represents input type or argument type. 	|
-
+| item        	| Function                                                                                                           	| Predicate                                                                    	|
+|-------------	|--------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------	|
+| Definition  	| It can take 2 type parameters First one represents input type argument type and second one represents return type. 	| It can take one type parameter which represents input type or argument type. 	|
+| Return Type 	| It can return any value                                                                                            	| It can return only boolean value                                             	|
+| Method      	| apply()                                                                                                            	| test()                                                                       	|
+| Example     	| Function<Integer,Integer> getEven = i -> i%2;                                                                      	| Predicate<Integer> isGreaterThanTwo = i -> i> 2;                             	|
