@@ -3,7 +3,7 @@
 <p>Cohesion is the degree to which the elements inside a module belong together.</p> 
 <p>Coupling is the degree of interdependence between software modules.</p>
 
-[SOLID Principles][1][Java 8].
+[SOLID Principles][1], [Java 8].
 
   
 
