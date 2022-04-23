@@ -1,4 +1,6 @@
-
+```
+easy copy
+```
 <h1>java 8: </h1>
 <a href = "https://manifesto.co.uk/java-jdk-8-features/" target="_blank"> reference 1: </a>
 <a href = "https://www.softwaretestinghelp.com/java/prominent-java-8-features/" target="_blank"> reference 2: </a>
