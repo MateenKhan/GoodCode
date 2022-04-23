@@ -1,4 +1,4 @@
-package com.tmobile.supplychain.nwsc.reference.data.search.model.sku;
+```package com.tmobile.supplychain.nwsc.reference.data.search.model.sku;
 
 
 import java.util.HashMap;
@@ -98,3 +98,4 @@ public class CurrencyConversionJava8 {
 
 
 }
+````
